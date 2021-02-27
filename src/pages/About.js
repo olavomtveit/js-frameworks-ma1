@@ -5,7 +5,9 @@ export default function About() {
   return (
     <>
       <Heading title="About" />
-      <p>This is the About page</p>
+      <div>
+        <Paragraph />
+      </div>
     </>
   );
 }

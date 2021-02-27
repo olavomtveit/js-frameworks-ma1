@@ -1,3 +1,3 @@
 export default function Paragraph() {
-  return <p></p>;
+  return <p>Yohoooo, big summer blowout</p>;
 }
